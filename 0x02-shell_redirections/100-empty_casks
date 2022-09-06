@@ -1,2 +1,3 @@
 #!/bin/bash
 li
+find . -depth -empty -printf %f\n
